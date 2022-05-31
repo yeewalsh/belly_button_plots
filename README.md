@@ -10,7 +10,7 @@ Bootstrap elements used for customization:
 * Site optimzed for mobile devises
 
 ## Analysis
-Visit the site at: 
+Visit the site at: https://yeewalsh.github.io/belly_button_plots/
 
 Below the navigation bar, you can click the dropdown for "Test Subject ID No.:" to choose a different subject from the dataset. Review the "Demographic Info" to learn more about the individual's age, ethnicity, gender and location. 
 
