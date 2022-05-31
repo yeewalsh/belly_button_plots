@@ -1,0 +1,7 @@
+/* Add an image to the jumbotron */
+.jumbotron{
+    background-image: url("Images/5cd66179240000580073738d.jpeg");
+    background-position: 50%, 60%;
+    background-size: cover;
+    height: 50%;
+};
